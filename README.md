@@ -5,7 +5,7 @@
 - Adriano Ferreira 
 - Luis Henrique 
 - Luis Gustavo
-- Ester Carlos
+[Ester Carlos](https://github.com/esterssc24) aaaaaaaa
 
 ## Como Executar o Projeto
 
