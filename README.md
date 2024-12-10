@@ -1,11 +1,12 @@
+
 # Nome do projeto: App do Tio do Sanduba
 ## Equipe
 - Marco Antonio
 - Matheus Ferreira
 - Adriano Ferreira 
 - Luis Henrique 
-- Luis Gustavo
-[Ester Carlos](https://github.com/esterssc24) aaaaaaaa
+- [Luis Gustavo](https://github.com/LuisGlima )
+- [Ester Carlos](https://github.com/esterssc24)
 
 ## Como Executar o Projeto
 
