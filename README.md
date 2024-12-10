@@ -1,4 +1,5 @@
 # Nome do projeto: App do Tio do Sanduba
+## Repositório desenvolvido para a aula de integração e entrega continua.
 ## Equipe
 - [Marco Antonio Lourenci Silva](https://github.com/marcolaoff)
 - [Matheus Ferreira Machado](https://github.com/speeky00)
