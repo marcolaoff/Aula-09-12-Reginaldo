@@ -1,12 +1,11 @@
-
 # Nome do projeto: App do Tio do Sanduba
 ## Equipe
 - Marco Antonio
-- Matheus Ferreira
-- Adriano Ferreira 
+- [Matheus Ferreira Machado](https://github.com/speeky00)
+- [Adriano Ferreira](https://github.com/AdrianoJr07) 
 - Luis Henrique 
-- [Luis Gustavo](https://github.com/LuisGlima )
-- [Ester Carlos](https://github.com/esterssc24)
+- [Luis Gustavo](https://github.com/LuisGlima)
+- Ester Carlos
 
 ## Como Executar o Projeto
 
@@ -27,4 +26,3 @@ cd nome-do-projeto
 ./iniciar .sh
 
 '''
-aaaaaaaaaaaaaaaaa
