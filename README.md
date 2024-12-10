@@ -1,6 +1,6 @@
 # Nome do projeto: App do Tio do Sanduba
 ## Equipe
-- Marco Antonio
+- [Marco Antonio Lourenci Silva](https://github.com/marcolaoff)
 - [Matheus Ferreira Machado](https://github.com/speeky00)
 - [Adriano Ferreira](https://github.com/AdrianoJr07) 
 - [Luis Henrique](https://github.com/lui0908)
